@@ -6,7 +6,6 @@ if ! [ -x "$(command -v docker-compose)" ]; then
 fi
 
 echo "EDITE ESTE ARQUIVO E DEFINA AS VARIÁVEIS domain, email e staging"
-exit; # E APAGUE ESSA LINHA
 
 # Domínio da instalação
 domain=(mapacultural.modelartecnologia.com)
