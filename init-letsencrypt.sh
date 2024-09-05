@@ -15,7 +15,7 @@ email="dacio@modelartecnologia.com"
 
 # EVITA que se atinja o LIMITE DE REQUESTS ao Let's Encrypt enquanto se testa as configurações
 # defina stagin=0 quando os testes passarem e execute novamente o script
-staging=1 
+staging=0 
 
 data_path="./docker-data/certbot"
 rsa_key_size=4096
