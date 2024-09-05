@@ -9,7 +9,7 @@ echo "EDITE ESTE ARQUIVO E DEFINA AS VARIÁVEIS domain, email e staging"
 exit; # E APAGUE ESSA LINHA
 
 # Domínio da instalação
-domain=mapacultural.modelartecnologia.com
+domain=(mapacultural.modelartecnologia.com)
 
 # Informe um e-mail válido
 email="dacio@modelartecnologia.com"
